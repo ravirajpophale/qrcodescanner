@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#B8C3D5"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.ravirajpophale.qrsacnner.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="80dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/icon" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="16dp"
+
+        android:autoLink="web"
+        android:gravity="center"
+        android:text="www.ravirajpophale.com"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColorLink="#2979FF" />
+
+    <Button
+        android:id="@+id/buttonScan"
+        android:layout_width="315dp"
+        android:layout_height="114dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/scan" />
+
+
+</RelativeLayout>

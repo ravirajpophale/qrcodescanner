@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "41890396055",
+    "firebase_url": "https://apps-48a38.firebaseio.com",
+    "project_id": "apps-48a38",
+    "storage_bucket": "apps-48a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41890396055:android:5cbb69bea366234e7236d2",
+        "android_client_info": {
+          "package_name": "com.ravirajpophale.easynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41890396055-hsfnjgk647t7qtm6dk530g4eeut07dmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravirajpophale.easynote",
+            "certificate_hash": "78bd1c2eb88ce768f67b41c2bbfb46623b9e15c8"
+          }
+        },
+        {
+          "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIs305ZOhAby7uTj83cVIf3WwvZRcprU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41890396055:android:0e113b5ae28206e17236d2",
+        "android_client_info": {
+          "package_name": "com.ravirajpophale.qrsacnner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIs305ZOhAby7uTj83cVIf3WwvZRcprU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41890396055:android:ba77b6d787470a557236d2",
+        "android_client_info": {
+          "package_name": "flashlight.ravirajpophale.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41890396055-hjk2k1krrcgkeiph0okd7av50drdbbr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flashlight.ravirajpophale.com",
+            "certificate_hash": "b7617931280644285e7ad79b217946a15bb6edaf"
+          }
+        },
+        {
+          "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIs305ZOhAby7uTj83cVIf3WwvZRcprU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
